@@ -1,7 +1,6 @@
 Based on:
 https://www.youtube.com/watch?v=kFRy_5lh2IQ
 
-
 And [Marlin 2.0.9.1](https://marlinfw.org/meta/download/):
  * https://github.com/MarlinFirmware/Marlin/tree/2.0.9.1
 
